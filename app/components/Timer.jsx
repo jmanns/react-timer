@@ -3,7 +3,7 @@ const React = require('react');
 const Timer = React.createClass({
   render () {
     return (
-      <h1>Timer Component!!!</h1>
+      <h1 className="page-title">Timer Component</h1>
     );
   }
 });
